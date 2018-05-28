@@ -1,0 +1,8 @@
+# ppx_getenv01
+
+doc: [
+  "_build/CHANGES.md" {"CHANGES.md"}
+  "_build/LICENSE.md" {"LICENSE.md"}
+  "_build/README.md" {"README.md"} ]
+lib: [
+  "_build/ppx_getenv01.opam" {"ppx_getenv01.opam"} ]

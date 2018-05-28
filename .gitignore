@@ -1,0 +1,17 @@
+*.a
+*.lib
+*.so
+*.dylib
+*.native
+*.byte
+*.exe
+*.o
+*.cmo
+*.cmi
+*.cma
+*.cmx
+*.cmxa
+*.cmxo
+a.out
+
+_build/
