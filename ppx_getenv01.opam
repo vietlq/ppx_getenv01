@@ -1,6 +1,5 @@
 opam-version: "1.2"
 name: "ppx_getenv01"
-version: "0.0.1"
 maintainer: "Viet Le <vietlq85@gmail.com>"
 authors: "Viet Le <vietlq85@gmail.com>"
 homepage: "https://github.com/vietlq/ppx_getenv01"
@@ -9,7 +8,7 @@ license: "MIT"
 dev-repo: "https://github.com/vietlq/ppx_getenv01"
 tags: [ "syntax" ]
 build: [
-  "make"
+  make
 ]
 build-test: [
   "ocamlbuild" "-classic-display" "-use-ocamlfind" "./ppx_getenv01" "--"
